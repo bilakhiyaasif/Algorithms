@@ -1,0 +1,1 @@
+## 2-Prime Number
