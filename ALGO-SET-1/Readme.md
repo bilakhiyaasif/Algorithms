@@ -5,4 +5,4 @@
 #### Java
 #### Python 3
 
-new LinkLabel("https://github.com/kotcrab/viseditor")).row(); 
+new LinkLabel("https://www.google.com")).row(); 
