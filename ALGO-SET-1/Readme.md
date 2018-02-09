@@ -5,4 +5,4 @@
 #### Java
 #### Python 3
 
-new LinkLabel("https://www.google.com")).row(); 
+new LinkLabel("google","https://www.google.com")).row(); 
