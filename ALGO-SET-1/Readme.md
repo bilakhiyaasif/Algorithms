@@ -6,3 +6,4 @@
 #### Python 3
 
 new LinkLabel("google","https://www.google.com")).row(); 
+new LinkLabel("kotcrab blog", "http://kotcrab.com")).row();
